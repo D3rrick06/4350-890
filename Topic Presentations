@@ -5,10 +5,10 @@ First come, first served; once a topic has a name next to it, it is taken.
 
 
 Lifecycle Models and Process
-1.  Kanban for Software Development                  -
+1.  Kanban for Software Development                  - Yaretzi Sanchez
 2.  Test Driven Development                          -
 3.  Behavior Driven Development                      -
-4.  CI/CD Pipeline                                   -
+4.  CI/CD Pipeline                                   -  DeShaun Acklin
 5.  Azure DevOps                                     -
 
 Project Management and Professional Practice
@@ -21,7 +21,9 @@ Software Architecture and Design
 10. Service-Oriented Architecture                    -
 11. Microservices in Industry                        -
 12. API Gateway Pattern                              -
-13. GraphQL vs REST                                  -
+13. GraphQL vs REST                                  - 
+14. Event-Driven Architecture                        - Mason Booker
+13. GraphQL vs REST                                  - Zee Smith
 14. Event-Driven Architecture                        -
 15. Serverless Architecture                          -
 
@@ -29,7 +31,7 @@ Cloud, Infrastructure and DevOps
 16. Kubernetes                                       -
 17. Infrastructure as Code                           -
 18. Feature Flags                                    -
-19. Observability and Monitoring                     -
+19. Observability and Monitoring                     - Shawn T.  
 20. Chaos Engineering                                -
 21. Site Reliability Engineering                     -
 
