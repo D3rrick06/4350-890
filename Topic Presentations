@@ -24,7 +24,7 @@ Software Architecture and Design
 13. GraphQL vs REST                                  - 
 14. Event-Driven Architecture                        - Mason Booker
 13. GraphQL vs REST                                  - Zee Smith
-14. Event-Driven Architecture                        -
+14. Event-Driven Architecture                        - Cameron Higgins
 15. Serverless Architecture                          -
 
 Cloud, Infrastructure and DevOps
@@ -33,7 +33,7 @@ Cloud, Infrastructure and DevOps
 18. Feature Flags                                    -
 19. Observability and Monitoring                     - Shawn T.  
 20. Chaos Engineering                                - Alisha Khaleeq
-21. Site Reliability Engineering                     -
+21. Site Reliability Engineering                     - Jeremi Taylor
 
 Security
 22. OAuth 2.0 and OpenID Connect                     -
@@ -42,3 +42,5 @@ Security
 AI in Software Engineering
 24. AI for Code Generation                           -
 25. Prompt Engineering for Developers                - Daniel Parashak
+24. AI for Code Generation                           - Mitre & Jez
+25. Prompt Engineering for Developers                -
